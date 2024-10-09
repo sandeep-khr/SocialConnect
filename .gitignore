@@ -1,0 +1,5 @@
+env/
+backend/*.pyc
+backend/*/*.pyc
+backend/*/*/*.pyc
+backend/*/*/*/*.pyc
